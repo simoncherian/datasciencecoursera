@@ -3,7 +3,7 @@
 - Who created Markdown?
 
 - When writing a document in R Markdown, how do you denote the beginning of an R code chunk?
-	'''{r}
+	- '''{r}
 
 - When using knitr, how do you indicate the height and width of a plot created in a code chunk?
 
