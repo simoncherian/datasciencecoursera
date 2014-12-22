@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science Coursera
+Scripts and hopefully projects for the Data Science specialization
